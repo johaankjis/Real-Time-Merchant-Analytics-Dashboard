@@ -228,7 +228,7 @@ Use the role dropdown in the top-right corner to view the dashboard from differe
 ```javascript
 {
   typescript: {
-    ignoreBuildErrors: true  // Build with type warnings
+    ignoreBuildErrors: true  // Build with TypeScript errors ignored
   },
   images: {
     unoptimized: true       // Disable image optimization
@@ -369,7 +369,7 @@ pnpm start
 
 ## 📄 License
 
-This project is private and proprietary.
+Please refer to the repository settings for license information.
 
 ## 👥 Authors
 
